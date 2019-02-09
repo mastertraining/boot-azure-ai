@@ -15,18 +15,10 @@ The Workshop Complimentary for Azure AI Services
 * (Workshop) Path: **ComputerVision/ExtractText**
 
 ### Commands
-**Create project**
-```
-dotnet new console -n YOUR_PROJECT_NAME_HERE
-```
 **Package**
 ```
 dotnet add package Microsoft.Azure.CognitiveServices.Vision.ComputerVision
 dotnet restore
-```
-**Run**
-```
-dotnet run
 ```
 
 ## Image classification
@@ -59,6 +51,16 @@ dotnet restore
 ## Tools
 * [.NET Core](https://dotnet.microsoft.com/download)
 * [Visual Studio Code](https://code.visualstudio.com)
+
+## .NET Commands
+**Create project**
+```
+dotnet new console -n YOUR_PROJECT_NAME_HERE
+```
+**Run**
+```
+dotnet run
+```
 
 ## Keys
 |กลุ่ม|Endpoint|Key|

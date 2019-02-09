@@ -14,6 +14,17 @@ The Workshop Complimentary for Azure AI Services
 * (Demo) Path: **ComputerVision/AnalyzeImage**
 * (Workshop) Path: **ComputerVision/ExtractText**
 
+### Commands
+**Package**
+```
+dotnet add package Microsoft.Azure.CognitiveServices.Vision.ComputerVision
+dotnet restore
+```
+**Run**
+```
+dotnet run
+```
+
 ## Image classification
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/Custom-Vision-Service/csharp-tutorial)
 * [Custom Vision website](https://customvision.ai)

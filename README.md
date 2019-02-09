@@ -13,8 +13,6 @@ The Workshop Complimentary for Azure AI Services
 * [Source code](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts.git)
 * (Demo) Path: **ComputerVision/AnalyzeImage**
 * (Workshop) Path: **ComputerVision/ExtractText**
-* [Visual Studio Code](https://code.visualstudio.com)
-* [.NET Core](https://dotnet.microsoft.com/download)
 
 ### Commands
 **Create project**
@@ -57,6 +55,20 @@ dotnet restore
 dotnet add package Microsoft.CognitiveServices.Speech
 dotnet restore
 ```
+
+## Tools
+* [.NET Core](https://dotnet.microsoft.com/download)
+* [Visual Studio Code](https://code.visualstudio.com)
+
+## Keys
+|กลุ่ม|Endpoint|Key|
+|--|--|--|
+|1|https://southeastasia.api.cognitive.microsoft.com|33a811602f07482eb794e91f2da27885|
+|2|https://southeastasia.api.cognitive.microsoft.com|d1bc4ac6adf7455b899b780202ed2413|
+|3|https://southeastasia.api.cognitive.microsoft.com|fe5250c045114ccda28d24ec7a96d522|
+|4|https://southeastasia.api.cognitive.microsoft.com|bf46109d0b7c4471a4f70add50fd0e24|
+|5|https://southeastasia.api.cognitive.microsoft.com|0a55874390de47db9a5e923e065f2fea|
+|6|https://southeastasia.api.cognitive.microsoft.com|2061974e1ac844d7a7cad6cbb94450cf|
 
 ## Useful links
 * [Digital Thailand Club](https://www.facebook.com/digitalthailandclub)

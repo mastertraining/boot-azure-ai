@@ -7,6 +7,7 @@ The Workshop Complimentary for Azure AI Services
 ## Slides & Video
 * [AI made easy on Cloud platform](https://gitpitch.com/tlaothong/ai-cloud/cast)
 * [Microsoft AI](slides/MsAi.pdf)
+* [Machine Learning (Algorithms Cheat Sheet link)](slides/MLCheatSheetAndBooks.pdf)
 
 ## Analyze an image
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/quickstarts-sdk/csharp-analyze-sdk)

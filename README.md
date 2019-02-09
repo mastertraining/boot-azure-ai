@@ -32,11 +32,25 @@ dotnet run
 * (Demo) Path: **CustomVision/ImageClassification**
 * (Workshop) Path: **CustomVision/ObjectDetection**
 
+### Commands
+**Package**
+```
+dotnet add package Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training
+dotnet add package Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction
+dotnet restore
+```
+
 ## Recognize intents from speech
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-recognize-intents-from-speech-csharp)
 * [LUIS portal](https://www.luis.ai/home)
 * [Source code](https://github.com/Azure-Samples/cognitive-services-speech-sdk.git)
 * (Demo) Path: **samples\csharp\sharedcontent\console\intent_recognition_samples.cs**
+### Commands
+**Package**
+```
+dotnet add package Microsoft.CognitiveServices.Speech
+dotnet restore
+```
 
 ## Useful links
 * [Digital Thailand Club](https://www.facebook.com/digitalthailandclub)

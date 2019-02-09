@@ -26,3 +26,6 @@ The Workshop Complimentary for Azure AI Services
 * [LUIS portal](https://www.luis.ai/home)
 * [Source code](https://github.com/Azure-Samples/cognitive-services-speech-sdk.git)
 * (Demo) Path: **samples\csharp\sharedcontent\console\intent_recognition_samples.cs**
+
+## Useful links
+* [Digital Thailand Club](https://www.facebook.com/digitalthailandclub)

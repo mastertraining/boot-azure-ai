@@ -7,8 +7,6 @@ The Workshop Complimentary for Azure AI Services
 ## Slides & Video
 * [AI made easy on Cloud platform](https://gitpitch.com/tlaothong/ai-cloud/cast)
 * [Microsoft AI](slides/MsAi.pdf)
-* [Neural Network Visualization](https://www.youtube.com/watch?v=f0t-OCG79-U)
-* [Understanding and Visualizing Neural Networks](https://www.youtube.com/watch?v=ghEmQSxT6tw)
 
 ## [Analyze an image](https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/quickstarts-sdk/csharp-analyze-sdk)
 * [Source code](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts.git)

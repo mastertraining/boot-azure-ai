@@ -13,8 +13,14 @@ The Workshop Complimentary for Azure AI Services
 * [Source code](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts.git)
 * (Demo) Path: **ComputerVision/AnalyzeImage**
 * (Workshop) Path: **ComputerVision/ExtractText**
+* [Visual Studio Code](https://code.visualstudio.com)
+* [.NET Core](https://dotnet.microsoft.com/download)
 
 ### Commands
+**Create project**
+```
+dotnet new console -n YOUR_PROJECT_NAME_HERE
+```
 **Package**
 ```
 dotnet add package Microsoft.Azure.CognitiveServices.Vision.ComputerVision

@@ -75,3 +75,4 @@ dotnet run
 
 ## Useful links
 * [Digital Thailand Club](https://www.facebook.com/digitalthailandclub)
+* [Microsoft Azure pass](https://www.microsoftazurepass.com/)

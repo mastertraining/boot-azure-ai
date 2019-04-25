@@ -59,11 +59,11 @@ dotnet add package Microsoft.Azure.CognitiveServices.Vision.CustomVision.Predict
 dotnet restore
 ```
 
-## Recognize intents from speech
+## 4.Recognize intents from speech
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-recognize-intents-from-speech-csharp)
 * [LUIS portal](https://www.luis.ai/home)
-* [Source code](https://github.com/Azure-Samples/cognitive-services-speech-sdk.git)
-* (Demo) Path: **samples\csharp\sharedcontent\console\intent_recognition_samples.cs**
+* [LUIS get started](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-get-started-create-app)
+* Source code: copy จากในตัว document ได้เลย
 ### Commands
 **Package**
 ```

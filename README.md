@@ -14,7 +14,6 @@ The Workshop Complimentary for Azure AI Services
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/quickstarts-sdk/csharp-analyze-sdk)
 * [Source code](https://raw.githubusercontent.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts/master/ComputerVision/AnalyzeImage/Program.cs)
 ### Commands
-**Package**
 ```
 dotnet add package Microsoft.Azure.CognitiveServices.Vision.ComputerVision
 dotnet restore
@@ -23,9 +22,8 @@ dotnet restore
 ## 2.Extract handwritten text (Computer Vision)
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/quickstarts-sdk/csharp-hand-text-sdk)
 * [Source code](https://raw.githubusercontent.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts/master/ComputerVision/ExtractText/Program.cs)
-* Image Url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cursive_Writing_on_Notebook_paper.jpg/800px-Cursive_Writing_on_Notebook_paper.jpg
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cursive_Writing_on_Notebook_paper.jpg/800px-Cursive_Writing_on_Notebook_paper.jpg)
 ### Commands
-**Package**
 ```
 dotnet add package Microsoft.Azure.CognitiveServices.Vision.ComputerVision
 dotnet restore
@@ -38,7 +36,6 @@ dotnet restore
 * Path: **CustomVision/ImageClassification**
 
 ### Commands
-**Package**
 ```
 dotnet add package Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training
 dotnet add package Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction
@@ -52,7 +49,6 @@ dotnet restore
 * Path: **CustomVision/ObjectDetection**
 
 ### Commands
-**Package**
 ```
 dotnet add package Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training
 dotnet add package Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction
@@ -65,7 +61,6 @@ dotnet restore
 * [LUIS get started](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-get-started-create-app)
 * [Source code](https://raw.githubusercontent.com/mastertraining/boot-azure-ai/master/RecognizeIntentsFromSpeech.cs)
 ### Commands
-**Package**
 ```
 dotnet add package Microsoft.CognitiveServices.Speech
 dotnet restore

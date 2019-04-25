@@ -9,11 +9,19 @@ The Workshop Complimentary for Azure AI Services
 * [Microsoft AI](slides/MsAi.pdf)
 * [Machine Learning (Algorithms Cheat Sheet link)](slides/MLCheatSheetAndBooks.pdf)
 
-## Analyze an image
+## 1.Analyze an image using the Computer Vision
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/quickstarts-sdk/csharp-analyze-sdk)
-* [Source code](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts.git)
-* (Demo) Path: **ComputerVision/AnalyzeImage**
-* (Workshop) Path: **ComputerVision/ExtractText**
+* [Source code](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts.git) (Path: **ComputerVision/AnalyzeImage**)
+### Commands
+**Package**
+```
+dotnet add package Microsoft.Azure.CognitiveServices.Vision.ComputerVision
+dotnet restore
+```
+
+## 2.Extract handwritten text using the Computer Vision
+* [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/quickstarts-sdk/csharp-hand-text-sdk)
+* [Source code](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts.git) (Path: **ComputerVision/ExtractText**)
 * Image Url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cursive_Writing_on_Notebook_paper.jpg/800px-Cursive_Writing_on_Notebook_paper.jpg
 ### Commands
 **Package**

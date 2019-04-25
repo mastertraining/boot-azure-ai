@@ -8,10 +8,11 @@ The Workshop Complimentary for Azure AI Services
 * [AI made easy on Cloud platform](https://gitpitch.com/tlaothong/ai-cloud/cast)
 * [Microsoft AI](slides/MsAi.pdf)
 * [Machine Learning (Algorithms Cheat Sheet link)](slides/MLCheatSheetAndBooks.pdf)
+* [Cognitive services repository](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts)
 
-## 1.Analyze an image using the Computer Vision
+## 1.Analyze an image (Computer Vision)
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/quickstarts-sdk/csharp-analyze-sdk)
-* [Source code](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts.git) (Path: **ComputerVision/AnalyzeImage**)
+* [Source code](https://raw.githubusercontent.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts/master/ComputerVision/AnalyzeImage/Program.cs)
 ### Commands
 **Package**
 ```
@@ -19,9 +20,9 @@ dotnet add package Microsoft.Azure.CognitiveServices.Vision.ComputerVision
 dotnet restore
 ```
 
-## 2.Extract handwritten text using the Computer Vision
+## 2.Extract handwritten text (Computer Vision)
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/quickstarts-sdk/csharp-hand-text-sdk)
-* [Source code](https://github.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts.git) (Path: **ComputerVision/ExtractText**)
+* [Source code](https://raw.githubusercontent.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts/master/ComputerVision/ExtractText/Program.cs)
 * Image Url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cursive_Writing_on_Notebook_paper.jpg/800px-Cursive_Writing_on_Notebook_paper.jpg
 ### Commands
 **Package**
@@ -30,12 +31,25 @@ dotnet add package Microsoft.Azure.CognitiveServices.Vision.ComputerVision
 dotnet restore
 ```
 
-## Image classification
+## 3.Image classification (Custom Vision)
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/Custom-Vision-Service/csharp-tutorial)
 * [Custom Vision website](https://customvision.ai)
-* [Source code](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples.git)
-* (Demo) Path: **CustomVision/ImageClassification**
-* (Workshop) Path: **CustomVision/ObjectDetection**
+* [Source code](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples.git) 
+* Path: **CustomVision/ImageClassification**
+
+### Commands
+**Package**
+```
+dotnet add package Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training
+dotnet add package Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction
+dotnet restore
+```
+
+## 4.Object detection (Custom Vision)
+* [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/Custom-Vision-Service/csharp-tutorial)
+* [Custom Vision website](https://customvision.ai)
+* [Source code](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples.git) 
+* Path: **CustomVision/ObjectDetection**
 
 ### Commands
 **Package**
@@ -70,16 +84,6 @@ dotnet new console -n YOUR_PROJECT_NAME_HERE
 ```
 dotnet run
 ```
-
-## Keys
-|กลุ่ม|Endpoint|Key|
-|--|--|--|
-|1|https://southeastasia.api.cognitive.microsoft.com|33a811602f07482eb794e91f2da27885|
-|2|https://southeastasia.api.cognitive.microsoft.com|d1bc4ac6adf7455b899b780202ed2413|
-|3|https://southeastasia.api.cognitive.microsoft.com|fe5250c045114ccda28d24ec7a96d522|
-|4|https://southeastasia.api.cognitive.microsoft.com|bf46109d0b7c4471a4f70add50fd0e24|
-|5|https://southeastasia.api.cognitive.microsoft.com|0a55874390de47db9a5e923e065f2fea|
-|6|https://southeastasia.api.cognitive.microsoft.com|2061974e1ac844d7a7cad6cbb94450cf|
 
 ## Useful links
 * [Digital Thailand Club](https://www.facebook.com/digitalthailandclub)

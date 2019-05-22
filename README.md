@@ -13,6 +13,7 @@ The Workshop Complimentary for Azure AI Services
 ## 1.Analyze an image (Computer Vision)
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/quickstarts-sdk/csharp-analyze-sdk)
 * [Source code](https://raw.githubusercontent.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts/master/ComputerVision/AnalyzeImage/Program.cs)
+* [Sample image](http://upload.wikimedia.org/wikipedia/commons/3/3c/Shaki_waterfall.jpg)
 ### Commands
 ```
 dotnet add package Microsoft.Azure.CognitiveServices.Vision.ComputerVision

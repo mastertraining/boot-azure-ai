@@ -22,7 +22,7 @@ dotnet restore
 
 ## 2.Extract handwritten text (Computer Vision)
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/quickstarts-sdk/csharp-hand-text-sdk)
-* [Source code](https://raw.githubusercontent.com/Azure-Samples/cognitive-services-vision-csharp-sdk-quickstarts/master/ComputerVision/ExtractText/Program.cs)
+* [Source code](https://raw.githubusercontent.com/mastertraining/boot-azure-ai/master/src/ExtractText/Program.cs)
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cursive_Writing_on_Notebook_paper.jpg/800px-Cursive_Writing_on_Notebook_paper.jpg)
 ### Commands
 ```

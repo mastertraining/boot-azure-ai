@@ -67,9 +67,20 @@ dotnet add package Microsoft.CognitiveServices.Speech
 dotnet restore
 ```
 
+## 6.Create and deploy a basic bot
+* [Document](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-basic-deploy?view=azure-bot-service-4.0&tabs=csharp%2Cnewrg)
+* [Tunneling (ngrok)](https://github.com/Microsoft/BotFramework-Emulator/wiki/Tunneling-(ngrok))
+
+## 7.Use a Web App Bot enabled with Language Understanding in C#
+* [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-csharp-tutorial-bf-v4)
+
+
 ## Tools
 * [.NET Core](https://dotnet.microsoft.com/download)
 * [Visual Studio Code](https://code.visualstudio.com)
+* [Bot Framework SDK v4 template for C#](https://marketplace.visualstudio.com/items?itemName=BotBuilder.botbuilderv4)
+* [Bot Framework Emulator](https://github.com/microsoft/BotFramework-Emulator/releases)
+* [ngrok](https://ngrok.com/download)
 
 ## .NET Commands
 **Create project**

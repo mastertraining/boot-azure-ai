@@ -74,6 +74,12 @@ dotnet restore
 ## 7.Use a Web App Bot enabled with Language Understanding in C#
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-csharp-tutorial-bf-v4)
 
+## 8.Run a Spark job on Azure Databricks using the Azure portal
+* [Document](https://docs.microsoft.com/en-us/azure/azure-databricks/quickstart-create-databricks-workspace-portal)
+
+## 9.Sentiment analysis on streaming data using Azure Databricks
+* [Document](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services)
+
 
 ## Tools
 * [.NET Core](https://dotnet.microsoft.com/download)

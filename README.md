@@ -70,6 +70,10 @@ dotnet restore
 ## 6.Create and deploy a basic bot
 * [Document](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-basic-deploy?view=azure-bot-service-4.0&tabs=csharp%2Cnewrg)
 * [Tunneling (ngrok)](https://github.com/Microsoft/BotFramework-Emulator/wiki/Tunneling-(ngrok))
+### Commands
+```
+dotnet publish
+```
 
 ## 7.Use a Web App Bot enabled with Language Understanding in C#
 * [Document](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-csharp-tutorial-bf-v4)
